@@ -1,0 +1,5 @@
+za/cbsa/integration/connectors/hsm/adapters/PinblockEncryptor.class
+za/cbsa/integration/connectors/hsm/adapters/Enrich_Helper.class
+za/cbsa/integration/connectors/hsm/controllers/HealthController.class
+za/cbsa/integration/connectors/hsm/controllers/ClearPinResourceController.class
+za/cbsa/integration/connectors/hsm/beans/PinBlockBean.class
